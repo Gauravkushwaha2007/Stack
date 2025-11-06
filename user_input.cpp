@@ -1,4 +1,5 @@
 #include <iostream>
+//#include <stack> by this we can direct implement stack and can access all predefined functions instead of manually
 using namespace std;
 int main(){
     int n;
